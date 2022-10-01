@@ -1,0 +1,19 @@
+.name_of_objects{
+    color: rgb(89, 114, 7);
+}
+#result_object_name, #result_object_accuracy{
+    color:purple;
+}
+#camera{
+    border:2px dashed burlywood;
+    width: 350px;
+    height: 300;
+
+}
+.heading{
+    width: 80%;
+    font-size:22px;
+}
+body{
+    background-color: rgb(80, 252, 255);
+}
